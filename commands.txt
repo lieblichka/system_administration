@@ -1,3 +1,14 @@
+*** SSH AND GIT ***
+
+	### ssh-agent 
+		
+		- Если github все еще запрашивает доступ по логину и токену 
+		выполнить следующую команду 
+				
+			git remote set-url origin git@github.com:lieblichka/system_administration.git
+			
+			
+
 *** LINUX ADMINISTRATION 
 Администрирование Linux
 
